@@ -1,0 +1,6 @@
+# Data directory except for README
+data/*
+!data/README.md
+
+# PyCharm
+.idea/
